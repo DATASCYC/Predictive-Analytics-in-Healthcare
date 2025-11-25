@@ -1,9 +1,9 @@
-# Building_SVM_Excel
+# Predictive Analytics in Healthcare
 
 ### About the Project
 
 #### Project Title:
-Building Support Vector Machine Using Microsoft Excel for Predicting Heart Disease
+Building ML models Using Microsoft Excel for Predicting Heart Disease
 
 #### Overview:
 This project focuses on developing and optimizing a Support Vector Machine (SVM) model using Microsoft Excel to aid in the early diagnosis of heart disease. With the rising number of patients experiencing heart-related issues, timely and accurate diagnosis is critical. The application of machine learning techniques, particularly SVMs, can significantly enhance the diagnostic process, reducing the burden on healthcare professionals and ensuring better patient outcomes.
